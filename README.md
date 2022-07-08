@@ -1,2 +1,8 @@
-# deadenum
-DeadEnum is a tool which allows you to do as much enumeration on a host as possible, while preventing communication
+```
+       _____                    _____
+   -.-=   7 )                  /     -
+  /0  0  _  \\      ____________\/\  * |
+ (=___._/\_/  _\___/ DEAD**ENUM ]\/    /
+   V  V   \  *         _____  *      /
+           \./_____*__/     \______*/
+           
