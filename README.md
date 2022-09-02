@@ -13,7 +13,7 @@ Deaddrops was a python project developed using Flask, for mainly offensive pente
 
 ![osinfo](https://github.com/Xeonrx/deaddrops/blob/main/img/OSinfo.png)
 
-# Install
+# Installation
 - Clone the git repo
 - cd into directory
-- Download the following py modules: `Flask, nmap-python, manuf`
+- Download the following py modules: `Flask, nmap-python, manuf, netaddr`
