@@ -11,7 +11,8 @@ Deaddrops was a python project developed using Flask, for mainly offensive pente
 - Stealth configurable
 - Logfile & reports page
 
-![osinfo](https://github.com/Xeonrx/deaddrops/blob/main/img/OSinfo.png)
+![osinfo](https://github.com/Xeonrx/deaddrops/blob/main/img/OSinfo.png)<br />
+*Don't rely on OS detection to be 100% accurate*
 
 # Installation
 - Clone the git repo
