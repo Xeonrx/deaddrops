@@ -1,4 +1,5 @@
 ![sample](https://github.com/Xeonrx/deaddrops/blob/main/img/sample.png)
+![osinfo](https://github.com/Xeonrx/deaddrops/blob/main/img/OSinfo.png)
 
 Remotley enumerate networks for active hosts, with a nice UI to come along with it :)
 
