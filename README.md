@@ -1,6 +1,6 @@
 ![sample](https://github.com/Xeonrx/deaddrops/blob/main/img/sample.png)
 
-Remotley enumerate networks for active hosts, with a nice UI to come along with it :)
+Discover active hosts on your local network, with a slick UI to come along with it :)
 
 Deaddrops was a python project developed using Flask, for mainly offensive pentesting host discovery. <br />
 This is a project in development, and will receive updates & fixes in the future.
