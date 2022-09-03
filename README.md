@@ -13,13 +13,15 @@ This is a project in development, and will receive updates & fixes in the future
 - Logfile & reports page
 
 ![osinfo](https://github.com/Xeonrx/deaddrops/blob/main/img/OSinfo.png) <br />
-*Don't rely on OS detection to be 100% accurate*
+*Don't rely on OS detection to be 100% accurate.*
 
 # Installation
 - Clone the git repo
 - cd into directory
-- Install the needed py modules via pip: `pip install flask, nmap-python, manuf, netaddr, scapy`
+- Install the needed py modules via pip: `pip install flask python-nmap manuf netaddr scapy`
 - `python3 deaddrops.py -h`
+
+**Note: This script has only been officially tested on Linux.**
 
 # Usage
 `python3 deaddrops.py {SUBNET VALUE}` (ex. `python3 deaddrops.py 10.0.0.1/24`)
@@ -29,7 +31,7 @@ This is a project in development, and will receive updates & fixes in the future
 `-s --seconds` seconds between scan interval (default 0) <br />
 `-l --logs` saved logfile (default logfile.txt)
 
-**Note: This script has only been officially tested on Linux**
+**After running the script, you can open the webapp via browser. The scan will start automacially.**
 
 # Future Plans
 - Port scanning & service enumeration
