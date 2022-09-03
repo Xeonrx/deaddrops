@@ -2,7 +2,8 @@
 
 Remotley enumerate networks for active hosts, with a nice UI to come along with it :)
 
-Deaddrops was a python project developed using Flask, for mainly offensive pentesting host discovery.
+Deaddrops was a python project developed using Flask, for mainly offensive pentesting host discovery. <br />
+This is a project in development, and will receive updates & fixes in the future.
 
 # Features
 - Scan for active hosts
@@ -11,7 +12,7 @@ Deaddrops was a python project developed using Flask, for mainly offensive pente
 - Stealth configurable
 - Logfile & reports page
 
-![osinfo](https://github.com/Xeonrx/deaddrops/blob/main/img/OSinfo.png)<br />
+![osinfo](https://github.com/Xeonrx/deaddrops/blob/main/img/OSinfo.png) <br />
 *Don't rely on OS detection to be 100% accurate*
 
 # Installation
