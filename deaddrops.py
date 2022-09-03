@@ -5,7 +5,7 @@ from flask import request
 from threading import Thread
 
 parser = argparse.ArgumentParser()
-parser.add_argument("subnet",type=str,help="subent value to scan")
+parser.add_argument("subnet",type=str,help="subnet value to scan")
 parser.add_argument("--port","-p",type=int,help="listening port (default 6500)")
 parser.add_argument("--logs","-l",type=str,help="Saved log file")
 parser.add_argument("--seconds","-s",type=int,help="Given seconds between scan intervals")
