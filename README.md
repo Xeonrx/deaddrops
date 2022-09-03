@@ -19,3 +19,8 @@ This is a project in development, and will receive updates & fixes in the future
 - Clone the git repo
 - cd into directory
 - Download the following py modules: `Flask, nmap-python, manuf, netaddr`
+
+# Future Plans
+- Port scanning & service enumeration
+- Customizeable color pallets
+- Mac and mobile detection
