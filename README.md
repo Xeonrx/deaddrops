@@ -18,7 +18,7 @@ This is a project in development, and will receive updates & fixes in the future
 # Installation
 - Clone the git repo
 - cd into directory
-- Install the following py modules via pip: `pip install flask, nmap-python, manuf, netaddr, scapy`
+- Install the needed py modules via pip: `pip install flask, nmap-python, manuf, netaddr, scapy`
 - `python3 deaddrops.py -h`
 
 # Usage
