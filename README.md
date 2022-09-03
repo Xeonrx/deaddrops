@@ -20,6 +20,8 @@ This is a project in development, and will receive updates & fixes in the future
 - cd into directory
 - Download the following py modules: `Flask, nmap-python, manuf, netaddr`
 
+**Note: This script has only been officially tested on Linux**
+
 # Future Plans
 - Port scanning & service enumeration
 - Customizeable color pallets
