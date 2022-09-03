@@ -21,9 +21,7 @@ This is a project in development, and will receive updates & fixes in the future
 - Download the following py modules: `Flask, nmap-python, manuf, netaddr`
 
 # Usage
-`python3 deaddrops.py {SUBNET VALUE}`
-
-example: `python3 deaddrops.py 10.0.0.1/24`
+`python3 deaddrops.py {SUBNET VALUE}` (ex. `python3 deaddrops.py 10.0.0.1/24`)
 
 ### Optional Usage
 `-p --port` change listening port (default 6500) <br />
