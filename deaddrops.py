@@ -7,8 +7,8 @@ from threading import Thread
 parser = argparse.ArgumentParser()
 parser.add_argument("subnet",type=str,help="subnet value to scan")
 parser.add_argument("--port","-p",type=int,help="listening port (default 6500)")
-parser.add_argument("--logs","-l",type=str,help="Saved log file")
-parser.add_argument("--seconds","-s",type=int,help="Given seconds between scan intervals")
+parser.add_argument("--logs","-l",type=str,help="saved log file")
+parser.add_argument("--seconds","-s",type=int,help="given seconds between scan intervals")
 args = parser.parse_args()
 
 def netscan(subnet,app,seconds): # function to scan subnet, and add active hosts to list
