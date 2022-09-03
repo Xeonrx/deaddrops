@@ -24,3 +24,4 @@ This is a project in development, and will receive updates & fixes in the future
 - Port scanning & service enumeration
 - Customizeable color pallets
 - Mac and mobile detection
+- Dynamic charts for report.html
